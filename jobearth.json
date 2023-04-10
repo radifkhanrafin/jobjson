@@ -1,0 +1,146 @@
+[
+      {
+        "id": "001",
+        "company_logo": "https://example.com/logo1.png",
+        "job_title": "Software Developer",
+        "company_name": "ABC Technologies",
+        "remote_or_onsite": "Remote",
+        "location": "Any location",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a software developer to join our team and help build software solutions for our clients.",
+        "job_responsibility": "Design, develop, test and maintain software applications. Collaborate with cross-functional teams to identify and solve complex software problems. Write clean, maintainable code that is scalable and efficient.",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experiences": "3+ years of experience in software engineering",
+        "contact_information": {
+          "phone": "123-456-7890",
+          "email": "jobs@abctech.com"
+        }
+      },
+      {
+        "id": "002",
+        "company_logo": "https://example.com/logo2.png",
+        "job_title": "Data Scientist",
+        "company_name": "XYZ Analytics",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Competitive",
+        "job_description": "We are seeking a data scientist to join our team and help analyze and interpret large datasets to provide insights and recommendations to our clients.",
+        "job_responsibility": "Analyze and interpret large datasets to provide insights and recommendations. Develop predictive models and statistical analyses. Collaborate with cross-functional teams to identify and solve complex data problems.",
+        "educational_requirements": "Master's or PhD in Data Science, Statistics, or a related field",
+        "experiences": "5+ years of experience in data analysis or a related field",
+        "contact_information": {
+          "phone": "555-555-5555",
+          "email": "jobs@xyzanalytics.com"
+        }
+      },
+      {
+        "id": "003",
+        "company_logo": "https://example.com/logo3.png",
+        "job_title": "Marketing Manager",
+        "company_name": "123 Marketing",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a marketing manager to join our team and help develop and execute marketing strategies to promote our brand and products.",
+        "job_responsibility": "Develop and execute marketing strategies to promote our brand and products. Manage and coordinate marketing campaigns. Analyze market trends and recommend changes to marketing strategies.",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business Administration, or a related field",
+        "experiences": "3+ years of experience in marketing management",
+        "contact_information": {
+          "phone": "111-111-1111",
+          "email": "jobs@123marketing.com"
+        }
+      },
+      {
+        "id": "003",
+        "company_logo": "https://example.com/logo3.png",
+        "job_title": "Marketing Manager",
+        "company_name": "123 Marketing",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a marketing manager to join our team and help develop and execute marketing strategies to promote our brand and products.",
+        "job_responsibility": "Develop and execute marketing strategies to promote our brand and products. Manage and coordinate marketing campaigns. Analyze market trends and recommend changes to marketing strategies.",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business Administration, or a related field",
+        "experiences": "3+ years of experience in marketing management",
+        "contact_information": {
+          "phone": "111-111-1111",
+          "email": "jobs@123marketing.com"
+        }
+      },
+      {
+        "id": "003",
+        "company_logo": "https://example.com/logo3.png",
+        "job_title": "Marketing Manager",
+        "company_name": "123 Marketing",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a marketing manager to join our team and help develop and execute marketing strategies to promote our brand and products.",
+        "job_responsibility": "Develop and execute marketing strategies to promote our brand and products. Manage and coordinate marketing campaigns. Analyze market trends and recommend changes to marketing strategies.",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business Administration, or a related field",
+        "experiences": "3+ years of experience in marketing management",
+        "contact_information": {
+          "phone": "111-111-1111",
+          "email": "jobs@123marketing.com"
+        }
+      },
+      {
+        "id": "003",
+        "company_logo": "https://example.com/logo3.png",
+        "job_title": "Marketing Manager",
+        "company_name": "123 Marketing",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a marketing manager to join our team and help develop and execute marketing strategies to promote our brand and products.",
+        "job_responsibility": "Develop and execute marketing strategies to promote our brand and products. Manage and coordinate marketing campaigns. Analyze market trends and recommend changes to marketing strategies.",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business Administration, or a related field",
+        "experiences": "3+ years of experience in marketing management",
+        "contact_information": {
+          "phone": "111-111-1111",
+          "email": "jobs@123marketing.com"
+        }
+      },
+      {
+        "id": "003",
+        "company_logo": "https://example.com/logo3.png",
+        "job_title": "Marketing Manager",
+        "company_name": "123 Marketing",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a marketing manager to join our team and help develop and execute marketing strategies to promote our brand and products.",
+        "job_responsibility": "Develop and execute marketing strategies to promote our brand and products. Manage and coordinate marketing campaigns. Analyze market trends and recommend changes to marketing strategies.",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business Administration, or a related field",
+        "experiences": "3+ years of experience in marketing management",
+        "contact_information": {
+          "phone": "111-111-1111",
+          "email": "jobs@123marketing.com"
+        }
+      },
+      {
+        "id": "003",
+        "company_logo": "https://example.com/logo3.png",
+        "job_title": "Marketing Manager",
+        "company_name": "123 Marketing",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "Negotiable",
+        "job_description": "We are looking for a marketing manager to join our team and help develop and execute marketing strategies to promote our brand and products.",
+        "job_responsibility": "Develop and execute marketing strategies to promote our brand and products. Manage and coordinate marketing campaigns. Analyze market trends and recommend changes to marketing strategies.",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business Administration, or a related field",
+        "experiences": "3+ years of experience in marketing management",
+        "contact_information": {
+          "phone": "111-111-1111",
+          "email": "jobs@123marketing.com"
+        }
+      }
+]
